@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../xmall-master/xmall-content/xmall-content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/../xmall-master/xmall-front-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../xmall-master/xmall-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../xmall-master/xmall-manager/xmall-manager-service" />
+    <file type="web" url="file://$PROJECT_DIR$/../xmall-master/xmall-search/xmall-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/../xmall-master/xmall-sso/xmall-sso-service" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../xmall-master/xmall-sso/pom.xml" />
+        <option value="$PROJECT_DIR$/../xmall-master/xmall-common/pom.xml" />
+        <option value="$PROJECT_DIR$/../xmall-master/xmall-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/../xmall-master/xmall-search/pom.xml" />
+        <option value="$PROJECT_DIR$/../xmall-master/xmall-content/pom.xml" />
+        <option value="$PROJECT_DIR$/../xmall-master/xmall-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/../xmall-master/xmall-front-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../xmall-master/xmall-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../xmall-master/generatorSqlmapCustom/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

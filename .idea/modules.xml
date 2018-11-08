@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../xmall-master/generatorSqlmapCustom.iml" filepath="$PROJECT_DIR$/../xmall-master/generatorSqlmapCustom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xmall-master/xmall-common.iml" filepath="$PROJECT_DIR$/../xmall-master/xmall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xmall-master/xmall-content.iml" filepath="$PROJECT_DIR$/../xmall-master/xmall-content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xmall-master/xmall-content-interface.iml" filepath="$PROJECT_DIR$/../xmall-master/xmall-content-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xmall-master/xmall-content-service.iml" filepath="$PROJECT_DIR$/../xmall-master/xmall-content-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xmall-master/xmall-front-web.iml" filepath="$PROJECT_DIR$/../xmall-master/xmall-front-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xmall-master/xmall-manager.iml" filepath="$PROJECT_DIR$/../xmall-master/xmall-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xmall-master/xmall-manager-dao.iml" filepath="$PROJECT_DIR$/../xmall-master/xmall-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xmall-master/xmall-manager-interface.iml" filepath="$PROJECT_DIR$/../xmall-master/xmall-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xmall-master/xmall-manager-pojo.iml" filepath="$PROJECT_DIR$/../xmall-master/xmall-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xmall-master/xmall-manager-service.iml" filepath="$PROJECT_DIR$/../xmall-master/xmall-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xmall-master/xmall-manager-web.iml" filepath="$PROJECT_DIR$/../xmall-master/xmall-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xmall-master/xmall-parent.iml" filepath="$PROJECT_DIR$/../xmall-master/xmall-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xmall-master/xmall-search.iml" filepath="$PROJECT_DIR$/../xmall-master/xmall-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xmall-master/xmall-search-interface.iml" filepath="$PROJECT_DIR$/../xmall-master/xmall-search-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xmall-master/xmall-search-service.iml" filepath="$PROJECT_DIR$/../xmall-master/xmall-search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xmall-master/xmall-sso.iml" filepath="$PROJECT_DIR$/../xmall-master/xmall-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xmall-master/xmall-sso-interface.iml" filepath="$PROJECT_DIR$/../xmall-master/xmall-sso-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xmall-master/xmall-sso-service.iml" filepath="$PROJECT_DIR$/../xmall-master/xmall-sso-service.iml" />
+    </modules>
+  </component>
+</project>
